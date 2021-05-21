@@ -1,3 +1,5 @@
+Site is live at bit.ly/thecheesybit
+
 ### Multiplayer Chess Game built with React and Node.js + Express. 
 
 - Users can play their friends anonymously via link.
