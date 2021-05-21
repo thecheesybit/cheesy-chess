@@ -1,4 +1,4 @@
-Site is live at bit.ly/thecheesybit
+Site is live [here](https://bit.ly/thecheesybit)
 
 ### Multiplayer Chess Game built with React and Node.js + Express. 
 
